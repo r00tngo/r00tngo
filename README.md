@@ -1,0 +1,17 @@
+👋 Hi, I’m @DOMINUSROOT and welcome to my page! 
+
+Join me on my security journey and dive into a world of programming with Python and Bash, along with scripting security tools. 
+
+👀 I am currently learning Linux+ and ongoing Python knowledge with a persuit to strengthen my programming knowledge to put my own spin on things. 
+
+On my Github page you can expect to see cheatsheet uploads, CTF walkthroughs and rooms from TryHackMe. 
+
+✨ Thank you for reading! ✨ I hope you will find at least one thing, that can help you with your own journey. ✨
+
+01001001 01100110 00100000 01111001 01101111 01110101 00100000 01110111 01101001 01110011 01101000 00100000 01110100 01101111 00100000 01100110 01101001 01101110 01100100 00101100 00100000 01111001 01101111 01110101 00100000 01101101 01110101 01110011 01110100 00100000 01110011 01100101 01100001 01110010 01100011 01101000 00101110 00100000 01010010 01100001 01110010 01100101 01101100 01111001 00100000 01100100 01101111 01100101 01110011 00100000 01100001 00100000 01100111 01101111 01101111 01100100 00100000 01101001 01100100 01100101 01100001 00100000 01101001 01101110 01110100 01100101 01110010 01110010 01110101 01110000 01110100 00100000 01111001 01101111 01110101 00100000 01111110 00100000 01001010 01101001 01101101 00100000 01010010 01101111 01101000 01101110 00101110
+
+
+<!---
+DOMINUSROOT/DOMINUSROOT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
