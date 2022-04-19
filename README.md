@@ -2,9 +2,7 @@
 
 Join me on my security journey and dive into a world of programming with Python and Bash, along with scripting security tools. 
 
-👀 I am currently learning Linux+ and ongoing Python knowledge with a persuit to strengthen my programming knowledge to put my own spin on things. 
-
-On my Github page you can expect to see cheatsheet uploads, CTF walkthroughs and rooms from TryHackMe. 
+On my Github page you can expect to 👀 cheatsheet uploads, CTF walkthroughs and rooms from TryHackMe. 
 
 ✨ Thank you for reading! ✨ I hope you will find at least one thing, that can help you with your own journey. ✨
 
